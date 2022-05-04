@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/knyxenOVKFD+1NusjpEW1t1xs55NpcUGDaQ2uapPNLJoICIFVh7nSpSIkA3oFCmFKdOmGtiAGBIfLCWewlPg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andre\\source\\repos\\Andrea.TBR\\src\\Andrea.TBR.SharedKernel\\Andrea.TBR.SharedKernel.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andre\\.nuget\\packages\\ardalis.specification\\6.0.1\\ardalis.specification.6.0.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr\\10.0.1\\mediatr.10.0.1.nupkg.sha512",
+    "C:\\Users\\andre\\.nuget\\packages\\mediatr.contracts\\1.0.1\\mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
